@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @odomodo1
+- 👋 Hi, I’m odomodo
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...software engineering 
 - 💞️ I’m looking to collaborate on ...building projects
